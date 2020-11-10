@@ -1,0 +1,9 @@
+{
+  "extends": "@tsconfig/deno/tsconfig.json",
+
+  "compilerOptions": {
+    "outDir": "dist",
+    "strict": true,
+    "plugins": [{"name": "typescript-deno-plugin"}]
+  }
+}

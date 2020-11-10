@@ -1,0 +1,11 @@
+allow:
+  - write
+  - read
+
+scripts:
+  x: deno run index.ts
+  start: deno run index.ts
+  write: deno run index.ts > output.txt
+  test: deno run index.ts > test-output.txt && diff -q ./test-output.txt ./test-target.txt
+  write-target: deno run index.ts > test-target.txt
+  types: deno types > lib.deno.d.ts

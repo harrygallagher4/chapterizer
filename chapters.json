@@ -1,0 +1,944 @@
+[
+  {
+    "start_offset_ms": 0,
+    "title": "Opening Credits"
+  },
+  {
+    "start_offset_ms": 916862,
+    "title": "The Alchemist"
+  },
+  {
+    "start_offset_ms": 2242442,
+    "title": "At the Mountains of Madness",
+    "chapters": [
+      {
+        "start_offset_ms": 2260142,
+        "title": "Chapter I"
+      },
+      {
+        "start_offset_ms": 3515034,
+        "title": "Chapter II"
+      },
+      {
+        "start_offset_ms": 5755109,
+        "title": "Chapter III"
+      },
+      {
+        "start_offset_ms": 7138321,
+        "title": "Chapter IV"
+      },
+      {
+        "start_offset_ms": 8319055,
+        "title": "Chapter V"
+      },
+      {
+        "start_offset_ms": 9946773,
+        "title": "Chapter VI"
+      },
+      {
+        "start_offset_ms": 10912490,
+        "title": "Chapter VII"
+      },
+      {
+        "start_offset_ms": 12206677,
+        "title": "Chapter VIII"
+      },
+      {
+        "start_offset_ms": 13308510,
+        "title": "Chapter IX"
+      },
+      {
+        "start_offset_ms": 14744664,
+        "title": "Chapter X"
+      },
+      {
+        "start_offset_ms": 15739174,
+        "title": "Chapter XI"
+      },
+      {
+        "start_offset_ms": 17011116,
+        "title": "Chapter XII"
+      }
+    ]
+  },
+  {
+    "start_offset_ms": 17795114,
+    "title": "Azathoth"
+  },
+  {
+    "start_offset_ms": 18008366,
+    "title": "The Beast in the Cave"
+  },
+  {
+    "start_offset_ms": 18890074,
+    "title": "Beyond the Wall of Sleep"
+  },
+  {
+    "start_offset_ms": 20509758,
+    "title": "The Book"
+  },
+  {
+    "start_offset_ms": 20950426,
+    "title": "The Call of Cthulhu",
+    "chapters": [
+      {
+        "start_offset_ms": 20998199,
+        "title": "Chapter I: The Horror In Clay"
+      },
+      {
+        "start_offset_ms": 22052398,
+        "title": "Chapter II: The Tale of Inspector Legrasse"
+      },
+      {
+        "start_offset_ms": 23812656,
+        "title": "Chapter III: The Madness from the Sea"
+      }
+    ]
+  },
+  {
+    "start_offset_ms": 25378423,
+    "title": "The Case of Charles Dexter Ward",
+    "chapters": [
+      {
+        "start_offset_ms": 25429282,
+        "title": "I. A Result and a Prologue",
+        "chapters": [
+          {
+            "start_offset_ms": 25435256,
+            "title": "Chapter I"
+          },
+          {
+            "start_offset_ms": 26136926,
+            "title": "Chapter II"
+          }
+        ]
+      },
+      {
+        "start_offset_ms": 26879825,
+        "title": "II. An Antecedent and a Horror",
+        "chapters": [
+          {
+            "start_offset_ms": 26884326,
+            "title": "Chapter I"
+          },
+          {
+            "start_offset_ms": 27853112,
+            "title": "Chapter II"
+          },
+          {
+            "start_offset_ms": 28523472,
+            "title": "Chapter III"
+          },
+          {
+            "start_offset_ms": 29401418,
+            "title": "Chapter IV"
+          },
+          {
+            "start_offset_ms": 30214859,
+            "title": "Chapter V"
+          },
+          {
+            "start_offset_ms": 31100468,
+            "title": "Chapter VI"
+          }
+        ]
+      },
+      {
+        "start_offset_ms": 31449138,
+        "title": "III. A Search and an Evocation",
+        "chapters": [
+          {
+            "start_offset_ms": 31453737,
+            "title": "Chapter I"
+          },
+          {
+            "start_offset_ms": 32148569,
+            "title": "Chapter II"
+          },
+          {
+            "start_offset_ms": 32670182,
+            "title": "Chapter III"
+          },
+          {
+            "start_offset_ms": 33158729,
+            "title": "Chapter IV"
+          },
+          {
+            "start_offset_ms": 33972356,
+            "title": "Chapter V"
+          },
+          {
+            "start_offset_ms": 34545935,
+            "title": "Chapter VI"
+          }
+        ]
+      },
+      {
+        "start_offset_ms": 35217363,
+        "title": "IV. A Mutation and a Madness",
+        "chapters": [
+          {
+            "start_offset_ms": 35222010,
+            "title": "Chapter I"
+          },
+          {
+            "start_offset_ms": 35812908,
+            "title": "Chapter II"
+          },
+          {
+            "start_offset_ms": 36580513,
+            "title": "Chapter III"
+          },
+          {
+            "start_offset_ms": 37495379,
+            "title": "Chapter IV"
+          }
+        ]
+      },
+      {
+        "start_offset_ms": 38631763,
+        "title": "V. A Nightmare and a Cataclysm",
+        "chapters": [
+          {
+            "start_offset_ms": 38636548,
+            "title": "Chapter I"
+          },
+          {
+            "start_offset_ms": 39111626,
+            "title": "Chapter II"
+          },
+          {
+            "start_offset_ms": 39698440,
+            "title": "Chapter III"
+          },
+          {
+            "start_offset_ms": 40277499,
+            "title": "Chapter IV"
+          },
+          {
+            "start_offset_ms": 41370926,
+            "title": "Chapter V"
+          },
+          {
+            "start_offset_ms": 42262572,
+            "title": "Chapter VI"
+          },
+          {
+            "start_offset_ms": 42950393,
+            "title": "Chapter VII"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "start_offset_ms": 43852023,
+    "title": "The Cats of Ulthar"
+  },
+  {
+    "start_offset_ms": 44341824,
+    "title": "Celephaïs"
+  },
+  {
+    "start_offset_ms": 45284368,
+    "title": "The Colour out of Space"
+  },
+  {
+    "start_offset_ms": 49662769,
+    "title": "Cool Air"
+  },
+  {
+    "start_offset_ms": 50882791,
+    "title": "Dagon"
+  },
+  {
+    "start_offset_ms": 51674545,
+    "title": "The Descendant"
+  },
+  {
+    "start_offset_ms": 52214362,
+    "title": "Discarded Draft of “The Shadow Over Innsmouth”"
+  },
+  {
+    "start_offset_ms": 53420592,
+    "title": "The Doom that Came to Sarnath"
+  },
+  {
+    "start_offset_ms": 54440876,
+    "title": "The Dream-Quest of Unknown Kadath"
+  },
+  {
+    "start_offset_ms": 70222360,
+    "title": "The Dreams in the Witch House"
+  },
+  {
+    "start_offset_ms": 75517717,
+    "title": "The Dunwich Horror",
+    "chapters": [
+      {
+        "start_offset_ms": 75604884,
+        "title": "Chapter I"
+      },
+      {
+        "start_offset_ms": 76111450,
+        "title": "Chapter II"
+      },
+      {
+        "start_offset_ms": 76631716,
+        "title": "Chapter III"
+      },
+      {
+        "start_offset_ms": 77051857,
+        "title": "Chapter IV"
+      },
+      {
+        "start_offset_ms": 77524197,
+        "title": "Chapter V"
+      },
+      {
+        "start_offset_ms": 78099123,
+        "title": "Chapter VI"
+      },
+      {
+        "start_offset_ms": 78642330,
+        "title": "Chapter VII"
+      },
+      {
+        "start_offset_ms": 79501886,
+        "title": "Chapter VIII"
+      },
+      {
+        "start_offset_ms": 80217896,
+        "title": "Chapter IX"
+      },
+      {
+        "start_offset_ms": 81054093,
+        "title": "Chapter X"
+      }
+    ]
+  },
+  {
+    "start_offset_ms": 81894841,
+    "title": "The Evil Clergyman"
+  },
+  {
+    "start_offset_ms": 82537197,
+    "title": "Ex Oblivione"
+  },
+  {
+    "start_offset_ms": 82848530,
+    "title": "Facts Concerning the Late Arthur Jermyn and His Family",
+    "chapters": [
+      {
+        "start_offset_ms": 82868132,
+        "title": "Chapter I"
+      },
+      {
+        "start_offset_ms": 83473611,
+        "title": "Chapter II"
+      }
+    ]
+  },
+  {
+    "start_offset_ms": 84182098,
+    "title": "The Festival"
+  },
+  {
+    "start_offset_ms": 85526719,
+    "title": "From Beyond"
+  },
+  {
+    "start_offset_ms": 86695100,
+    "title": "The Haunter of the Dark"
+  },
+  {
+    "start_offset_ms": 90190771,
+    "title": "He"
+  },
+  {
+    "start_offset_ms": 91791461,
+    "title": "Herbert West—Reanimator",
+    "chapters": [
+      {
+        "start_offset_ms": 91810029,
+        "title": "Chapter I: From the Dark"
+      },
+      {
+        "start_offset_ms": 92547270,
+        "title": "Chapter II: The Plague-Daemon"
+      },
+      {
+        "start_offset_ms": 93258450,
+        "title": "Chapter III: Six Shots by Moonlight"
+      },
+      {
+        "start_offset_ms": 93954119,
+        "title": "Chapter IV: The Scream of the Dead"
+      },
+      {
+        "start_offset_ms": 94655175,
+        "title": "Chapter V: The Horror from the Shadows"
+      },
+      {
+        "start_offset_ms": 95402578,
+        "title": "Chapter VI: The Tomb-Legions"
+      }
+    ]
+  },
+  {
+    "start_offset_ms": 96142690,
+    "title": "History of the Necronomicon"
+  },
+  {
+    "start_offset_ms": 96473342,
+    "title": "The Horror at Red Hook",
+    "chapters": [
+      {
+        "start_offset_ms": 96513980,
+        "title": "Chapter I"
+      },
+      {
+        "start_offset_ms": 96853359,
+        "title": "Chapter II"
+      },
+      {
+        "start_offset_ms": 97266534,
+        "title": "Chapter III"
+      },
+      {
+        "start_offset_ms": 97706134,
+        "title": "Chapter IV"
+      },
+      {
+        "start_offset_ms": 98280177,
+        "title": "Chapter V"
+      },
+      {
+        "start_offset_ms": 98563785,
+        "title": "Chapter VI"
+      },
+      {
+        "start_offset_ms": 99195739,
+        "title": "Chapter VII"
+      }
+    ]
+  },
+  {
+    "start_offset_ms": 99615184,
+    "title": "The Hound"
+  },
+  {
+    "start_offset_ms": 100842405,
+    "title": "Hypnos"
+  },
+  {
+    "start_offset_ms": 101959470,
+    "title": "Ibid"
+  },
+  {
+    "start_offset_ms": 102631594,
+    "title": "In the Vault"
+  },
+  {
+    "start_offset_ms": 103803737,
+    "title": "The Little Glass Bottle"
+  },
+  {
+    "start_offset_ms": 103989310,
+    "title": "The Lurking Fear",
+    "chapters": [
+      {
+        "start_offset_ms": 104007642,
+        "title": "Chapter I: The Shadow on the Chimney"
+      },
+      {
+        "start_offset_ms": 104772379,
+        "title": "Chapter II: A Passer in the Storm"
+      },
+      {
+        "start_offset_ms": 105496841,
+        "title": "Chapter III: What the Red Glare Meant"
+      },
+      {
+        "start_offset_ms": 106268254,
+        "title": "Chapter IV: The Horror in the Eyes"
+      }
+    ]
+  },
+  {
+    "start_offset_ms": 107091308,
+    "title": "Memory"
+  },
+  {
+    "start_offset_ms": 107270148,
+    "title": "The Moon-Bog"
+  },
+  {
+    "start_offset_ms": 108454505,
+    "title": "The Music of Erich Zann"
+  },
+  {
+    "start_offset_ms": 109725890,
+    "title": "The Mysterious Ship - Long Version",
+    "chapters": [
+      {
+        "start_offset_ms": 109741979,
+        "title": "Chapter 1"
+      },
+      {
+        "start_offset_ms": 109775144,
+        "title": "Chapter 2"
+      },
+      {
+        "start_offset_ms": 109804657,
+        "title": "Chapter 3"
+      },
+      {
+        "start_offset_ms": 109829925,
+        "title": "Chapter 4"
+      },
+      {
+        "start_offset_ms": 109859438,
+        "title": "Chapter 5"
+      },
+      {
+        "start_offset_ms": 109890530,
+        "title": "Chapter 6"
+      },
+      {
+        "start_offset_ms": 109920931,
+        "title": "Chapter 7"
+      },
+      {
+        "start_offset_ms": 109950296,
+        "title": "Chapter 8"
+      },
+      {
+        "start_offset_ms": 109987211,
+        "title": "Chapter 9"
+      },
+      {
+        "start_offset_ms": 110017366,
+        "title": "Chapter 10"
+      }
+    ]
+  },
+  {
+    "start_offset_ms": 110067409,
+    "title": "The Mysterious Ship - Short Version",
+    "chapters": [
+      {
+        "start_offset_ms": 110090115,
+        "title": "Chapter 1"
+      },
+      {
+        "start_offset_ms": 110119374,
+        "title": "Chapter 2"
+      },
+      {
+        "start_offset_ms": 110129899,
+        "title": "Chapter 3"
+      },
+      {
+        "start_offset_ms": 110144926,
+        "title": "Chapter 4"
+      },
+      {
+        "start_offset_ms": 110162071,
+        "title": "Chapter 5"
+      },
+      {
+        "start_offset_ms": 110183055,
+        "title": "Chapter 6"
+      },
+      {
+        "start_offset_ms": 110208740,
+        "title": "Chapter 7"
+      },
+      {
+        "start_offset_ms": 110231710,
+        "title": "Chapter 8"
+      },
+      {
+        "start_offset_ms": 110252297,
+        "title": "Chapter 9"
+      }
+    ]
+  },
+  {
+    "start_offset_ms": 110296450,
+    "title": "The Mystery of the Grave-Yard",
+    "chapters": [
+      {
+        "start_offset_ms": 110314870,
+        "title": "Chapter I: The Burns’s Tomb"
+      },
+      {
+        "start_offset_ms": 110372496,
+        "title": "Chapter II: Mysterious Mr. Bell"
+      },
+      {
+        "start_offset_ms": 110415624,
+        "title": "Chapter III: At the Police Station"
+      },
+      {
+        "start_offset_ms": 110446767,
+        "title": "Chapter IV: The West Window"
+      },
+      {
+        "start_offset_ms": 110473842,
+        "title": "Chapter V: The Secret of the Grave"
+      },
+      {
+        "start_offset_ms": 110511643,
+        "title": "Chapter VI: The Chase for Bell"
+      },
+      {
+        "start_offset_ms": 110541233,
+        "title": "Chapter VII: The Negro Hackman"
+      },
+      {
+        "start_offset_ms": 110572007,
+        "title": "Chapter VIII: Bell's Surprise"
+      },
+      {
+        "start_offset_ms": 110641174,
+        "title": "Chapter IX: The Trial"
+      },
+      {
+        "start_offset_ms": 110685115,
+        "title": "Chapter X: Dobson’s Story"
+      },
+      {
+        "start_offset_ms": 110735122,
+        "title": "Chapter XI: The Mystery unveiled"
+      },
+      {
+        "start_offset_ms": 110759386,
+        "title": "Chapter XII: Conclusion"
+      }
+    ]
+  },
+  {
+    "start_offset_ms": 110808357,
+    "title": "The Nameless City"
+  },
+  {
+    "start_offset_ms": 112750938,
+    "title": "Nyarlathotep"
+  },
+  {
+    "start_offset_ms": 113253928,
+    "title": "Old Bugs"
+  },
+  {
+    "start_offset_ms": 114324089,
+    "title": "The Other Gods"
+  },
+  {
+    "start_offset_ms": 115103536,
+    "title": "The Outsider"
+  },
+  {
+    "start_offset_ms": 116068882,
+    "title": "Pickman’s Model"
+  },
+  {
+    "start_offset_ms": 118092129,
+    "title": "The Picture in the House"
+  },
+  {
+    "start_offset_ms": 119355387,
+    "title": "Polaris"
+  },
+  {
+    "start_offset_ms": 119933192,
+    "title": "The Quest of Iranon"
+  },
+  {
+    "start_offset_ms": 120967223,
+    "title": "The Rats in the Walls"
+  },
+  {
+    "start_offset_ms": 123806559,
+    "title": "A Reminiscence of Dr. Samuel Johnson"
+  },
+  {
+    "start_offset_ms": 124537616,
+    "title": "The Secret Cave"
+  },
+  {
+    "start_offset_ms": 124758019,
+    "title": "The Shadow out of Time",
+    "chapters": [
+      {
+        "start_offset_ms": 124775840,
+        "title": "Chapter I"
+      },
+      {
+        "start_offset_ms": 125859109,
+        "title": "Chapter II"
+      },
+      {
+        "start_offset_ms": 126947288,
+        "title": "Chapter III"
+      },
+      {
+        "start_offset_ms": 128132898,
+        "title": "Chapter IV"
+      },
+      {
+        "start_offset_ms": 129799022,
+        "title": "Chapter V"
+      },
+      {
+        "start_offset_ms": 130805096,
+        "title": "Chapter VI"
+      },
+      {
+        "start_offset_ms": 132127565,
+        "title": "Chapter VII"
+      },
+      {
+        "start_offset_ms": 133020975,
+        "title": "Chapter VIII"
+      }
+    ]
+  },
+  {
+    "start_offset_ms": 134409435,
+    "title": "The Shadow Over Innsmouth",
+    "chapters": [
+      {
+        "start_offset_ms": 134424944,
+        "title": "Chapter I"
+      },
+      {
+        "start_offset_ms": 135772214,
+        "title": "Chapter II"
+      },
+      {
+        "start_offset_ms": 137652147,
+        "title": "Chapter III"
+      },
+      {
+        "start_offset_ms": 139722670,
+        "title": "Chapter IV"
+      },
+      {
+        "start_offset_ms": 142614993,
+        "title": "Chapter V"
+      }
+    ]
+  },
+  {
+    "start_offset_ms": 143577135,
+    "title": "The Shunned House",
+    "chapters": [
+      {
+        "start_offset_ms": 143596947,
+        "title": "Chapter I"
+      },
+      {
+        "start_offset_ms": 144177138,
+        "title": "Chapter II"
+      },
+      {
+        "start_offset_ms": 144945811,
+        "title": "Chapter III"
+      },
+      {
+        "start_offset_ms": 145817952,
+        "title": "Chapter IV"
+      },
+      {
+        "start_offset_ms": 146742013,
+        "title": "Chapter V"
+      }
+    ]
+  },
+  {
+    "start_offset_ms": 147534556,
+    "title": "The Silver Key"
+  },
+  {
+    "start_offset_ms": 149440774,
+    "title": "The Statement of Randolph Carter"
+  },
+  {
+    "start_offset_ms": 150427714,
+    "title": "The Strange High House in the Mist"
+  },
+  {
+    "start_offset_ms": 151896840,
+    "title": "The Street"
+  },
+  {
+    "start_offset_ms": 152717015,
+    "title": "Sweet Ermengarde"
+  },
+  {
+    "start_offset_ms": 153756851,
+    "title": "The Temple"
+  },
+  {
+    "start_offset_ms": 155692559,
+    "title": "The Terrible Old Man"
+  },
+  {
+    "start_offset_ms": 156143954,
+    "title": "The Thing on the Doorstep",
+    "chapters": [
+      {
+        "start_offset_ms": 156163283,
+        "title": "Chapter I"
+      },
+      {
+        "start_offset_ms": 156664406,
+        "title": "Chapter II"
+      },
+      {
+        "start_offset_ms": 157148309,
+        "title": "Chapter III"
+      },
+      {
+        "start_offset_ms": 157600912,
+        "title": "Chapter IV"
+      },
+      {
+        "start_offset_ms": 158409941,
+        "title": "Chapter V"
+      },
+      {
+        "start_offset_ms": 159022901,
+        "title": "Chapter VI"
+      },
+      {
+        "start_offset_ms": 159421308,
+        "title": "Chapter VII"
+      }
+    ]
+  },
+  {
+    "start_offset_ms": 160044113,
+    "title": "Through the Gates of the Silver Key",
+    "chapters": [
+      {
+        "start_offset_ms": 160062769,
+        "title": "Chapter 1"
+      },
+      {
+        "start_offset_ms": 160972864,
+        "title": "Chapter 2"
+      },
+      {
+        "start_offset_ms": 161225497,
+        "title": "Chapter 3"
+      },
+      {
+        "start_offset_ms": 162366757,
+        "title": "Chapter 4"
+      },
+      {
+        "start_offset_ms": 162934856,
+        "title": "Chapter 5"
+      },
+      {
+        "start_offset_ms": 163829010,
+        "title": "Chapter 6"
+      },
+      {
+        "start_offset_ms": 164465933,
+        "title": "Chapter 7"
+      },
+      {
+        "start_offset_ms": 164907158,
+        "title": "Chapter 8"
+      }
+    ]
+  },
+  {
+    "start_offset_ms": 165596837,
+    "title": "The Tomb"
+  },
+  {
+    "start_offset_ms": 167167016,
+    "title": "The Transition of Juan Romero"
+  },
+  {
+    "start_offset_ms": 168214050,
+    "title": "The Tree"
+  },
+  {
+    "start_offset_ms": 168845818,
+    "title": "Under the Pyramids",
+    "chapters": [
+      {
+        "start_offset_ms": 168864020,
+        "title": "Chapter 1"
+      },
+      {
+        "start_offset_ms": 170698166,
+        "title": "Chapter 2"
+      }
+    ]
+  },
+  {
+    "start_offset_ms": 172805516,
+    "title": "The Unnamable"
+  },
+  {
+    "start_offset_ms": 173942272,
+    "title": "The Very Old Folk"
+  },
+  {
+    "start_offset_ms": 174940822,
+    "title": "What the Moon Brings"
+  },
+  {
+    "start_offset_ms": 175243006,
+    "title": "The Whisperer in Darkness",
+    "chapters": [
+      {
+        "start_offset_ms": 175261725,
+        "title": "Chapter 1"
+      },
+      {
+        "start_offset_ms": 176136370,
+        "title": "Chapter 2"
+      },
+      {
+        "start_offset_ms": 177625883,
+        "title": "Chapter 3"
+      },
+      {
+        "start_offset_ms": 178560253,
+        "title": "Chapter 4"
+      },
+      {
+        "start_offset_ms": 179523509,
+        "title": "Chapter 5"
+      },
+      {
+        "start_offset_ms": 180525403,
+        "title": "Chapter 6"
+      },
+      {
+        "start_offset_ms": 181636802,
+        "title": "Chapter 7"
+      },
+      {
+        "start_offset_ms": 183301904,
+        "title": "Chapter 8"
+      }
+    ]
+  },
+  {
+    "start_offset_ms": 184622887,
+    "title": "The White Ship"
+  },
+  {
+    "start_offset_ms": 185582567,
+    "title": "The Life and Times of H. P. Lovecraft"
+  }
+]
